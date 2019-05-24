@@ -3,7 +3,7 @@
 An immersive multimedia series that combines technology and nature by artist Lani Asuncion.
 
 <h3 align="center">
-  <img height="255" width="253" src="https://i.ibb.co/FsKBc1G/Human-Garden-main.jpg"/>
+  <img height="75%" width="75%" src="https://i.ibb.co/FsKBc1G/Human-Garden-main.jpg"/>
 </h3>
 
 
