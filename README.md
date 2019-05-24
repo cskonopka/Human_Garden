@@ -49,13 +49,13 @@ Open the patch named “HumanGarden-v2-send-install.maxpat”
 *All toggles ON*
 
 <h3 align="center">
-  <img height="255" width="253" src="https://i.ibb.co/KWXsrmg/Human-Garden-Send-Buttons-ON.png"/>
+  <img height="30%" width="30%" src="https://i.ibb.co/KWXsrmg/Human-Garden-Send-Buttons-ON.png"/>
 </h3>
 
 *All toggles OFF*
 
 <h3 align="center">
-  <img height="255" width="253" src="https://i.ibb.co/q777dy3/Human-Garden-Send-Buttons-OFF.png"/>
+  <img height="30%" width="30%" src="https://i.ibb.co/q777dy3/Human-Garden-Send-Buttons-OFF.png"/>
 </h3>
 
 ## RECEIVE COMPUTER
@@ -65,19 +65,19 @@ Open the patch named “HumanGarden-v2-send-install.maxpat”
  * Go to the WiFi option on *RECEIVE* and select the network created in the previous step.
  
  <h3 align="center">
-  <img height="255" width="253" src="https://i.ibb.co/rbjML9w/Human-Garden-Receiver-Network.png"/>
+  <img height="30%" width="30%" src="https://i.ibb.co/rbjML9w/Human-Garden-Receiver-Network.png"/>
 </h3>
 
 * Go to the “HumanGarden” folder on the Desktop of the *RECEIVE* computer
 
 <h3 align="center">
-  <img height="255" width="253" src="https://i.ibb.co/rmMFMnD/Human-Garden-Folder.png"/>
+  <img height="30%" width="30%" src="https://i.ibb.co/rmMFMnD/Human-Garden-Folder.png"/>
 </h3>
 
 * Open the patch named “HumanGarden-v2-receive-install.maxpat”
 
 <h3 align="center">
-  <img height="255" width="253" src="https://i.ibb.co/2yCZn1p/Human-Garden-Receiver-Patch.png"/>
+  <img height="50%" width="50%" src="https://i.ibb.co/2yCZn1p/Human-Garden-Receiver-Patch.png"/>
 </h3>
 
 * Press toggle #1 to start the video and audio
@@ -89,19 +89,19 @@ Open the patch named “HumanGarden-v2-send-install.maxpat”
 *All toggles ON*
 
 <h3 align="center">
-  <img height="255" width="253" src="https://i.ibb.co/f8Tbbky/Human-Garden-Receiver-Buttons-On.png"/>
+  <img height="30%" width="30%" src="https://i.ibb.co/f8Tbbky/Human-Garden-Receiver-Buttons-On.png"/>
 </h3>
 
 *All toggles OFF*
 
 <h3 align="center">
-  <img height="255" width="253" src="https://i.ibb.co/h9K19SY/Human-Garden-Receiver-Buttons-Off.png"/>
+  <img height="30%" width="30%" src="https://i.ibb.co/h9K19SY/Human-Garden-Receiver-Buttons-Off.png"/>
 </h3>
 
 Control audio volume using the gain slider
 
 <h3 align="center">
-  <img height="255" width="253" src="https://i.ibb.co/L1nqjzL/Human-Garden-Receiver-Audio-Gain.png"/>
+  <img height="30%" width="30%" src="https://i.ibb.co/L1nqjzL/Human-Garden-Receiver-Audio-Gain.png"/>
 </h3>
 
 ## TROUBLESHOOTING
