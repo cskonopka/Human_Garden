@@ -2,7 +2,12 @@
 
 An immersive multimedia series that combines technology and nature by artist Lani Asuncion.
 
-## Initial
+<h3 align="center">
+  <img height="255" width="253" src="https://i.ibb.co/FsKBc1G/Human-Garden-main.jpg"/>
+</h3>
+
+
+## Starting out with everything turned off
 * Turn on the *SEND COMPUTER*.
 * Turn on the *RECEIVE COMPUTER*.
 * Make sure the Leap Motion is connected to the *SEND COMPUTER*.
