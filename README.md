@@ -107,15 +107,16 @@ Control audio volume using the gain slider
 ## TROUBLESHOOTING
 
 *Why are we not using WiFi?*
-Using an ethernet connection will ensure the installation does not stop if there is an interruption with WiFi service.
+* Using an ethernet connection will ensure the installation does not stop if there is an interruption with WiFi service.
 
 *The video is not reacting to my hand motions?*
-* Go to the pillar and hold never your hand over the sensor. Move your hand back and forth slowly. If the video is not moving proceed to option 2.
-* On the SEND computer, find the HumanGarden folder and open the max patch named HumanGarden-v2-send-install.maxpat. Click the toggle labeled #1 to turn off the Leap Motion connection, the toggle X will be dark green. Then click the same toggle to turn on the Leap Motion connection, the toggle X will now be pink. Then press toggle #2 to open data gate and then press #3 to connect the patch to the RECEIVE computer. If you are still get no data from the Leap Motion, proceed to step 3.
-* Disconnect the Leap Motion from the Mac Mini, wait 3-5 seconds and reconnect the Leap Motion to the Mac Mini. 
+1. Go to the pillar and hold never your hand over the sensor. Move your hand back and forth slowly. If the video is not moving proceed to option 2.
+2. On the SEND computer, find the HumanGarden folder and open the max patch named HumanGarden-v2-send-install.maxpat. Click the toggle labeled #1 to turn off the Leap Motion connection, the toggle X will be dark green. Then click the same toggle to turn on the Leap Motion connection, the toggle X will now be pink. Then press toggle #2 to open data gate and then press #3 to connect the patch to the RECEIVE computer. If you are still get no data from the Leap Motion, proceed to step 3.
+3. Disconnect the Leap Motion from the Mac Mini, wait 3-5 seconds and reconnect the Leap Motion to the Mac Mini. 
 
 *The sensor is not responding consistently, but it is responding.*
-Check to see if there is any obstruction on the sensor, i.e. grass shaving, that could be disrupting the connectivity. Also check for smudges on the sensor. Wipe down occasionally for best connectivity results. 
+* Check to see if there is any obstruction on the sensor, i.e. grass shaving, that could be disrupting the connectivity. 
+* Check for smudges on the sensor. Wipe down occasionally for best connectivity results. 
 
 *I do not hear any audio, what's the deal?*
 * Audio is generated when the Leap Motion is connected and a hand motion is detected. If there is no audio, check the *Audio* settings on the *RECEIVE* computer and make sure the *Audio Output* is set to HDMI and not Built-In Internal Speakers. Check your local Sound settings within System Preferences.
